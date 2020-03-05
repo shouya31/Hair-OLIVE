@@ -42,11 +42,6 @@ li{
   list-style: none;
 }
 
-.message-date{
-  list-style: none;
-  padding-right: 40px;
-}
-
 .heading-name{
   text-align: center;
   border-bottom: 1px solid red;
@@ -70,6 +65,11 @@ li{
   padding-left: 300px;
   font-size: 18px;
   margin-bottom: 16px;
+}
+
+.message-date{
+  list-style: none;
+  padding-right: 40px;
 }
 
 /* スタイリスト紹介 */
@@ -129,6 +129,7 @@ border: 1px solid #b5aaaa;
 }
 /* フッター */
 footer {
+  height: 50px;
   background-color: #f0f0f0;
   text-align: center;
   color: gray;
