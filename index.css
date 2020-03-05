@@ -27,7 +27,7 @@ header {
   padding: 20px;
 }
 
-.menu-bar {
+.nav-lists {
   margin: 0;
   padding: 0;
   display: flex;
@@ -42,7 +42,7 @@ li{
   list-style: none;
 }
 
-.list{
+.message-date{
   list-style: none;
   padding-right: 40px;
 }
